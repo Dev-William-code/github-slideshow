@@ -1,7 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our second slide! or three"
 ---
 Your text
-Use the left arrow to go back!
 teste dos testes
